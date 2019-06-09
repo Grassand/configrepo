@@ -1,1 +1,1 @@
-EurekaServiceClient2.uri=https://CSMSEurekaClient/getStudentDetailsForSchool/{schoolname}
+EurekaServiceClient.uri=https://CSMSEurekaClient/getStudentDetailsForSchool/{schoolname}

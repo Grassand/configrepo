@@ -1,0 +1,1 @@
+EurekaServiceClient2.uri=https://localhost:9098/getSchoolDetails//{schoolname}
